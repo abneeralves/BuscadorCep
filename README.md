@@ -16,4 +16,4 @@
 - CSS
 - JavaScript
 - React
-- Api (ViaCEP)
+- API (ViaCEP)
