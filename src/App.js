@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="titulo">Buscador Cep</h1>
+      <h1 className="titulo">Buscar Cep</h1>
 
       <div className="box">
         <input type="text" placeholder="Digite seu Cep"
