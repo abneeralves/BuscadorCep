@@ -32,7 +32,8 @@ function App() {
 
       <div className="box">
         <input type="text" placeholder="Digite seu Cep"
-        value={input} onChange={(e) => setInput(e.target.value) }></input>
+          value={input} onChange={(e) => setInput(e.target.value) }>
+        </input>
 
         <button className="pesquisar" onClick={buscar}><FcSearch size={20}/></button>
       </div>
@@ -49,7 +50,7 @@ function App() {
       )}
       
     </div>
-  );
+  )
 }
 
 export default App;
